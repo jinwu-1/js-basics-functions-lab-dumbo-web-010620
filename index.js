@@ -8,6 +8,6 @@ function distanceFromHqInBlocks (value) {
   }
 }
 
-function distanceFromHqInFeet (value) {
-
-}
+// function distanceFromHqInFeet (value) {
+//
+// }
